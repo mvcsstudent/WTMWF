@@ -1,2 +1,2 @@
 # WTMWF
-this is my YouTube Channel's WatchFace
+this is my YouTube Channel's WatchFace for my Pebble watch.
